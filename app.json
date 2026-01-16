@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "rebalancer-bot",
+      "script": "dist/index.js",
+      "watch": false
+      //   "out_file": "/dev/null",
+      //   "error_file": "/dev/null"
+    }
+  ]
+}
